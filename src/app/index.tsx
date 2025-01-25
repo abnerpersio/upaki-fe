@@ -155,7 +155,7 @@ export function App() {
             disabled={!uploads.length || isLoading}
           >
             <Trash2Icon />
-            Resetar
+            Limpar
           </Button>
 
           <Button
